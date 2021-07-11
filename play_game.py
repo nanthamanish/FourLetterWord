@@ -1,4 +1,4 @@
-from play_game import Player
+from emulator import Player
 
 def main():
     P = Player()

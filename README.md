@@ -18,8 +18,11 @@ This is a basic Python module to emulate a word game on the Command Line Interfa
 + The computer accepts defeat if it has no options to choose from.
 
 ## Playing:
-+ Run `python interface.py` in your computer to play the game
++ Run `python play_game.py` in your computer to play the game
 
 ### Files:
-+ `play_game.py`
++ `play_game.py` - Interface for user
++ `emulator.py` - Contains class and functions required for emulation
++ `rules.txt` - Contains rules
++ `word_alpha.txt` - List of all English words (from https://github.com/dwyl/english-words)
 
