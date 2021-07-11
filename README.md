@@ -5,7 +5,7 @@ This is a basic Python module to emulate a word game on the Command Line Interfa
 ## Rules:
 + The game starts with the user choosing a four letter word.
 + Then at each turn, the opponent chooses a four letter word that differs from the previous four letter word EXACTLY by one character and has not been played before
-+ Example;
++ Example:
    - For example, let **word** be picked first, Then the opponent can play **wore** or **work** or **ward** among the many options available.
         - **warq** is invalid as it is not a word
         - **ware** is invalid as it differs by 2 characters
