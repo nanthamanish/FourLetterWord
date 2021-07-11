@@ -1,0 +1,21 @@
+************** Four Letter Words **************
+
+The game starts with the user(you) choosing a
+four letter word.
+
+Then at each turn, the opponent chooses a four letter 
+word that differs from the previous four letter word
+EXACTLY by one character and has not been played before
+
+For example, let 'WORD' be picked first, Then
+the opponent can play 'WORE' or 'WORK' or 'WARD'
+among the many options available.
+
+'WORQ' is invalid as it is not a word
+'WARE' is invalid as it differs by 2 charactes
+
+Type 'resign' to quit the game (computer wins)
+Type 'EXIT' to exit the game (game stops)
+The computer accepts defeat if it has no options
+to choose from.
+************************************************
